@@ -1,2 +1,4 @@
 # core-go
-Programs in Go language
+Programs in Go language.
+
+## Data Structure programs
